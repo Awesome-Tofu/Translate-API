@@ -7,7 +7,7 @@ This is basically a google translate rest api
 
 #### Get request
 
-```http
+```
   GET /translate
 ```
 
