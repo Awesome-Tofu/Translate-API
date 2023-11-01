@@ -7,8 +7,8 @@ This is basically a google translate rest api
 
 #### Get request
 
-```
-  GET /translate?q=string&lang=string
+```http
+  GET /translate
 ```
 
 | Parameter | Type     | Description                | Example|
